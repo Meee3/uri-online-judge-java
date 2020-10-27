@@ -10,7 +10,7 @@ se quiserem comentar outros eu agradeço!!!!
 
 Atualmente conheço,
 
-HackerRank, UriOnline, LeetCode....
+HackerRank, UriOnline, LeetCode, Daily Coding....
 
 
 
@@ -24,7 +24,7 @@ if you want to comment others I thank you !!!!
 
 I currently know,
 
-HackerRank, UriOnline, LeetCode .... */
+HackerRank, UriOnline, LeetCode, Daily Coding .... */
 
 ------------
 
