@@ -6,7 +6,7 @@ Este é um repositório em que guardarei alguns exercícios realizados na plataf
 
 Conheço alguns web sites que fornecem este tipo de exercício,
 
-se quiserem comentar outros eu agradeço!!!!
+se quiserem comentar outros agradeço!!!!
 
 HackerRank, UriOnline, LeetCode, Daily Coding....
 
