@@ -4,9 +4,9 @@ Olá a todos,
 
 Este é um repositório em que guardarei alguns exercícios realizados na plataforma UriOnline na linguagem 'JAVA'.
 
-Conheço alguns web sites que fornecem este tipo de exercício,
+Conheço algumas web sites que fornecem estes tipos de exercícios,
 
-se quiserem comentar outros agradeço!!!!
+se quiserem comentar outras paginas agradeço!!!!
 
 HackerRank, UriOnline, LeetCode, Daily Coding....
 
