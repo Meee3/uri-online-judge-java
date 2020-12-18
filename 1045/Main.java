@@ -39,7 +39,7 @@ public class Main {
         C = array[0];
 
 
-        System.out.println(A + "" + B+ "" + C);
+        //System.out.println(A + "" + B+ "" + C);
 
 //Output
 
