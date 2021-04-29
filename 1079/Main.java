@@ -12,7 +12,7 @@ public class Main {
        // System.out.println("Ok");
 
         // Primeira Entrada sera o numero de casos
-        Locale.setDefault(Locale.US);
+//        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira a quantidade de casos");
         int valorEntrada = sc.nextInt();
@@ -22,16 +22,15 @@ public class Main {
         double[] PosicaoDasNotas = new double[valorEntrada];
 
         for(int i = 0; i < valorEntrada; i++){
-            System.out.println("Insira o valor da Nota");
+            //System.out.println("Insira o valor da Nota");
             inValue = sc.nextDouble();
             totalValorNotas += inValue;
             PosicaoDasNotas[i] = inValue;
         }
         double somaDasNotasComSeusPesos = 0.0;
-      
-        PosicaoDasNotas[0] += PosicaoDasNotas[0] * 2; 
-        PosicaoDasNotas[1] += PosicaoDasNotas[1] * 3;
-        PosicaoDasNotas[2] += PosicaoDasNotas[2] * 5;
+        PosicaoDasNotas[0] = PosicaoDasNotas[0] * 2; 
+        PosicaoDasNotas[1] = PosicaoDasNotas[1] * 3;
+        PosicaoDasNotas[2] = PosicaoDasNotas[2] * 5;
         
         for(int i = 0; i < 3; i++){
             somaDasNotasComSeusPesos += PosicaoDasNotas[i];
